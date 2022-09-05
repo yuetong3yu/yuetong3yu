@@ -3,9 +3,9 @@ A web developer who dont wanna be a web developer.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 28 mins    ██████████░░░░░░░░░░░░░░░   39.67 %
-Markdown     1 hr 15 mins    ████████▓░░░░░░░░░░░░░░░░   34.03 %
-Other        27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+Markdown     2 hrs 23 mins   ██████████████░░░░░░░░░░░   56.13 %
+TypeScript   51 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Other        28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
 ```
 
 <!--END_SECTION:waka-->
