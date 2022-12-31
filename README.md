@@ -3,10 +3,11 @@ A web developer who dont wanna be a web developer.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 53 mins   ████████████████░░░░░░░░░   64.55 %
-Markdown     2 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
-Bash         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+TypeScript   6 hrs 47 mins   ████████████████▒░░░░░░░░   65.74 %
+Markdown     2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+Bash         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
