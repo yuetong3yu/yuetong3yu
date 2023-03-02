@@ -1,4 +1,4 @@
-A web developer who dont wanna be a web developer.
+👋 Hi, my name is Chris Yu. I'm Software Enginner base in Sydney. Welcome to connect.
 
 <!--START_SECTION:waka-->
 
