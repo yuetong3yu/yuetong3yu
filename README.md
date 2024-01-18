@@ -18,4 +18,4 @@ Markdown     8 mins          ▒░░░░░░░░░░░░░░░░
 ## Projects 
 
 - JavaScript Clean Code(Chinese)
-  * https://github.com/yuetong3yu/js-clean-code-cn
+  * js-clean-code-cn.vercel.app
