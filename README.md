@@ -17,5 +17,4 @@ Markdown     8 mins          ▒░░░░░░░░░░░░░░░░
 
 ## Projects 
 
-- JavaScript Clean Code(Chinese)
-  * js-clean-code-cn.vercel.app
+- [JavaScript Clean Code](https://js-clean-code-cn.vercel.app/), chinese translation for how to write clean js code.
