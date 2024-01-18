@@ -1,4 +1,7 @@
-👋 Hi, my name is Chris Yu. I'm Software Enginner base in Sydney. Welcome to connect.
+👋 Greetings, 
+
+This is Chris Yu. a developer try to not limit myself. 
+
 
 <!--START_SECTION:waka-->
 
@@ -11,3 +14,8 @@ Markdown     8 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+## Projects 
+
+- JavaScript Clean Code(Chinese)
+  * https://github.com/yuetong3yu/js-clean-code-cn
