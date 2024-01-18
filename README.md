@@ -15,6 +15,13 @@ Markdown     8 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+## Link me
+
+- Twitter: https://twitter.com/yuetong3yu
+- Linkedin: https://www.linkedin.com/in/yuetong3yu
+- Upwork: https://www.upwork.com/freelancers/~019f5d35fda67374fb
+
+
 ## Projects 
 
 - [JavaScript Clean Code](https://js-clean-code-cn.vercel.app/), chinese translation for how to write clean js code.
