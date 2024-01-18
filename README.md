@@ -17,10 +17,10 @@ Markdown     8 mins          ▒░░░░░░░░░░░░░░░░
 
 ## Link me
 
-- [Twitter](https://twitter.com/yuetong3yu)
-- [Linkedin](https://www.linkedin.com/in/yuetong3yu)
-- [Upwork](https://www.upwork.com/freelancers/~019f5d35fda67374fb)
-- [Mail To Me](mailto:yuetong3yu@gmail.com)
+- [🏖️ Twitter](https://twitter.com/yuetong3yu)
+- [🧳 Linkedin](https://www.linkedin.com/in/yuetong3yu)
+- [👨‍💻 Upwork](https://www.upwork.com/freelancers/~019f5d35fda67374fb)
+- [📧 Mail To Me](mailto:yuetong3yu@gmail.com)
 
 
 ## Projects 
