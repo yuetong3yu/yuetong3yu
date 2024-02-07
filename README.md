@@ -1,6 +1,6 @@
 👋 Greetings, 
 
-This is Chris Yu. a developer try to not limit myself. 
+I'm Chris Yu. a developer. 
 
 
 <!--START_SECTION:waka-->
