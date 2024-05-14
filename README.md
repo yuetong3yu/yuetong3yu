@@ -6,11 +6,11 @@ I'm Chris Yu. I'm a developer.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 43 mins  █████████████▒░░░░░░░░░░░   53.72 %
-Svelte       7 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.64 %
-Markdown     56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Svelte       10 hrs 38 mins  ████████████▒░░░░░░░░░░░░   49.40 %
+TypeScript   8 hrs 47 mins   ██████████▒░░░░░░░░░░░░░░   40.87 %
+Markdown     1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
