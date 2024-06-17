@@ -1,6 +1,4 @@
-👋 Greetings, 
-
-I'm Chris Yu. I'm a developer. 
+🤔
 
 
 <!--START_SECTION:waka-->
