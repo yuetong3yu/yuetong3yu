@@ -4,11 +4,11 @@ do not stop growing
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 hrs 36 mins  ██████████████░░░░░░░░░░░   55.77 %
-Svelte       11 hrs 28 mins  ████████▓░░░░░░░░░░░░░░░░   34.38 %
-Prisma       1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-JSON         1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TypeScript   19 hrs 2 mins   ██████████████▓░░░░░░░░░░   59.25 %
+Svelte       10 hrs 35 mins  ████████▒░░░░░░░░░░░░░░░░   32.96 %
+Prisma       1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+JavaScript   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
