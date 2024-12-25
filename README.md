@@ -4,10 +4,8 @@ do not stop growing
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 35 mins   ████████████████████▓░░░░   82.08 %
-JSON         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-YAML         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Other   0 secs          ████████████▓░░░░░░░░░░░░   50.79 %
+JSON    0 secs          ████████████▒░░░░░░░░░░░░   49.21 %
 ```
 
 <!--END_SECTION:waka-->
