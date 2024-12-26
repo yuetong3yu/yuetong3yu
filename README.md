@@ -4,8 +4,7 @@ do not stop growing
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs          ████████████▓░░░░░░░░░░░░   50.79 %
-JSON    0 secs          ████████████▒░░░░░░░░░░░░   49.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
