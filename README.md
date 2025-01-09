@@ -1,6 +1,3 @@
-do not stop growing
-
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -15,6 +12,7 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Link me
 
+- [📕 Blog](https://chris-yu.vercel.app/)
 - [🏖️ Twitter](https://twitter.com/yuetong3yu)
 - [🧳 Linkedin](https://www.linkedin.com/in/yuetong3yu)
 - [📧 Mail To Me](mailto:yuetong3yu@gmail.com)
