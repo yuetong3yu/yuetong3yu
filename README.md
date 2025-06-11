@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 25 mins   ██████████████░░░░░░░░░░░   56.10 %
-Svelte       6 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   40.19 %
-Prisma       37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+TypeScript   11 hrs 29 mins  ████████████████▒░░░░░░░░   65.53 %
+Svelte       5 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.16 %
+Prisma       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
