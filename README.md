@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 52 mins  ███████████████░░░░░░░░░░   60.29 %
-Svelte       4 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-JavaScript   1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Prisma       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript   8 hrs 31 mins   █████████████░░░░░░░░░░░░   51.60 %
+Svelte       5 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 %
+JavaScript   1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Prisma       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
