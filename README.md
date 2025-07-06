@@ -10,7 +10,3 @@ Other        17 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-## Projects 
-
-- [JavaScript Clean Code](https://js-clean-code-cn.vercel.app/), chinese translation for how to write clean js code.
